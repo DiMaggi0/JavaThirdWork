@@ -9,3 +9,6 @@ The programm will print next information:
 
 This programm work with class Calendar and can update itself in real life, thanks to GrigorianCalendar. 
 Also, it has handle most exceptions, for example, incorrect date of birthday, incorrect full name and so on.
+
+
+P.S: This programm has a simple user interface.
